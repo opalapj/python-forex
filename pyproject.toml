@@ -5,7 +5,7 @@ authors = [
     {name = "Piotr Opała", email = "opalapj@gmail.com"},
 ]
 license = {text = "MIT"}
-dependencies = ["forex-python>=1.9.2"]
+dependencies = ["forex-python>=1.9.2", "yfinance>=1.2.0"]
 requires-python = "==3.13.*"
 
 [tool.pdm]
